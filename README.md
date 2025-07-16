@@ -24,6 +24,9 @@ Open Visual Studio Code through a command.
 
  Exit Command
 Say "Stop" or "Exit" to close the assistant.
+
+
+
 Technologies Used
 speech_recognition – For voice input
 
